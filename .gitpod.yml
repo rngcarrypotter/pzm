@@ -1,0 +1,3 @@
+tasks:
+  - init: ./gradlew clean
+    command: ./gradlew build
